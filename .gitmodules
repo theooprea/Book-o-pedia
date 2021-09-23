@@ -1,0 +1,6 @@
+[submodule "Book-o-pedia-Android_Kotlin"]
+	path = Book-o-pedia-Android_Kotlin
+	url = https://github.com/theooprea/Book-o-pedia-Android-Kotlin
+[submodule "Book-o-pedia-backend"]
+	path = Book-o-pedia-backend
+	url = https://github.com/theooprea/Book-o-pedia-backend
